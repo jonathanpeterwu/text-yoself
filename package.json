@@ -14,7 +14,7 @@
     "keen.io": "^0.1.2",
     "mongodb": "*",
     "monk": "*",
-    "morgan": "~1.0.0",
+    "morgan": "~1.9.1",
     "static-favicon": "~1.0.0"
   }
 }
